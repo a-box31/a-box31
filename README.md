@@ -1,4 +1,4 @@
-![Banner](https://github.com/a-box31/a-box31/blob/main/Web%20Developer.png {width=50px})
+<img src="https://github.com/a-box31/a-box31/blob/main/Web%20Developer.png" width="50">
 
 # Hi there, I'm Abin Thomas! 👋
 
