@@ -16,7 +16,7 @@ I'm a passionate **Full-Stack Developer** specializing in building modern web ap
 ![Visitor Count](https://komarev.com/ghpvc/?username=a-box31&style=flat-square)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-box31&layout=compact)](https://github.com/a-box31/github-readme-stats)
-![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-box31&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
+![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-box31&show_icons=true&theme=radical)
 
 ---
 
