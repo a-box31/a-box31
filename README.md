@@ -1,7 +1,5 @@
-<img src="https://github.com/a-box31/a-box31/blob/main/Web%20Developer.png" width="300" style="inline-block">
-
 # Hi there, I'm Abin Thomas! 👋
-
+<img src="https://github.com/a-box31/a-box31/blob/main/Web%20Developer.png" width="300" style="inline-block">
 [![Website](https://img.shields.io/badge/Website-abinthomas.net-blue?style=flat-square&logo=google-chrome)](https://www.abinthomas.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abin-thomas-89361b25b)
 
