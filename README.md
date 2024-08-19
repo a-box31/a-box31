@@ -21,15 +21,15 @@ I'm a passionate **Full-Stack Developer** specializing in building modern web ap
 --->
 
 ### Stats
-![Visitor Count](https://komarev.com/ghpvc/?username=abin-thomas&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=a-box31&style=flat-square)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abin-thomas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abin-thomas&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abin-thomas&layout=compact)](https://github.com/a-box31/github-readme-stats)
+![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-box31&show_icons=true&theme=radical)
 
 ---
 
 🔗 **Find me on:**
-- [LinkedIn](https://www.linkedin.com/in/abin-thomas/)
-- [Twitter](https://twitter.com/abin-thomas)
-- [Portfolio](https://abinthomas.net)
+- [LinkedIn](https://www.linkedin.com/in/abin-thomas-89361b25b)
+- [Twitter](https://x.com/thomaa2031)
+- [Portfolio](https://www.abinthomas.net)
 ---
