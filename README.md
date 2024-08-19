@@ -11,12 +11,14 @@ I'm a passionate **Full-Stack Developer** specializing in building modern web ap
 - **💾 Backend:** Developing RESTful APIs with Node.js, Express.js, and managing databases with MySQL.
 - **🎨 Frontend:** Creating beautiful and intuitive user interfaces with React.js and CSS frameworks.
 - **📦 Projects:** Constantly working on new projects and sharing them here!
-
+  
+<---
 ### Cool Stuff
 ![My Projects](https://user-images.githubusercontent.com/your_image_here) <!-- Replace with your actual image URL -->
 
 ⏳ **Countdown to My Next Big Release:**  
 `<COUNTDOWN CODE>` <!-- Use a countdown tool like https://countingdownto.com/ to generate code -->
+--->
 
 ### Stats
 ![Visitor Count](https://komarev.com/ghpvc/?username=abin-thomas&style=flat-square)
