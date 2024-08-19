@@ -1,6 +1,6 @@
 # Hi there, I'm Abin Thomas! 👋
 
-[![Website](https://img.shields.io/badge/Website-abinthomas.net-blue?style=flat-square&logo=google-chrome)](https://abinthomas.net)
+[![Website](https://img.shields.io/badge/Website-www.abinthomas.net-blue?style=flat-square&logo=google-chrome)](https://abinthomas.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abin-thomas/)
 
 ### About Me
