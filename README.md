@@ -1,4 +1,4 @@
-<img src="https://github.com/a-box31/a-box31/blob/main/Web%20Developer.png" width="500">
+<img src="https://github.com/a-box31/a-box31/blob/main/Web%20Developer.png" width="500" style="inline-block">
 
 # Hi there, I'm Abin Thomas! 👋
 
