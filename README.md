@@ -1,7 +1,7 @@
 # Hi there, I'm Abin Thomas! 👋
 
 [![Website](https://img.shields.io/badge/Website-abinthomas.net-blue?style=flat-square&logo=google-chrome)](https://www.abinthomas.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abin-thomas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abin-thomas-89361b25b)
 
 ### About Me
 I'm a passionate **Full-Stack Developer** specializing in building modern web applications. With a strong foundation in **JavaScript, React, Node.js, Express.js,** and **MySQL**, I love creating efficient and scalable solutions that make a difference.
