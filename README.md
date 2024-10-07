@@ -11,7 +11,7 @@ I'm a passionate **Full-Stack Developer** specializing in building modern web ap
 ### What I Work On
 - **🖥️ Web Development:** Building responsive and dynamic web apps using the MERN stack.
 - **💾 Backend:** Developing RESTful APIs with Node.js, Express.js, and managing databases with MySQL.
-- **🎨 Frontend:** Creating beautiful and intuitive user interfaces with React.js and CSS frameworks.
+- **🎨 Frontend:** Creating beautiful and intuitive user interfaces with React.js, React Native, and CSS frameworks.
 - **📦 Projects:** Constantly working on new projects and sharing them here!
 
 ### Stats
